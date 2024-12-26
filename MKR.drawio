@@ -183,7 +183,7 @@
         <mxCell id="42" value="ERP&#xa;with Paid Addons" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="960" y="515.5" width="160" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="eSim Supported Devbice with Private Mobile APN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="43" value="eSim Supported Device with Private Mobile APN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="960" y="600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="44" value="Check24" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">

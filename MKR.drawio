@@ -123,8 +123,8 @@
         <mxCell id="47" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1217" y="725.5000000000001" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="Search&#xa;on Market Available to Purchase Financial Products" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1392" y="455.5" width="188" height="84.5" as="geometry" />
+        <mxCell id="48" value="Search&#xa;on Market Available to Purchase Financial Products" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=left;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1392" y="455.5" width="188" height="164.5" as="geometry" />
         </mxCell>
         <mxCell id="49" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1400" y="970" width="130" height="60" as="geometry" />

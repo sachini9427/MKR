@@ -189,8 +189,14 @@
         <mxCell id="43" value="eSim Supported Device with Private Mobile APN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="960" y="600" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="44" target="45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="44" value="Check24" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="45" target="49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45" value="Idealo.de" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="545.5" width="130" height="60" as="geometry" />

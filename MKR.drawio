@@ -353,7 +353,7 @@
         <mxCell id="BiBf15HHNjMDZF8-XcX4-115" value="Check Availability on Market" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=center;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1480" y="597.75" width="240" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="46ZgH81Ad_jFvTiQ-aaI-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="BiBf15HHNjMDZF8-XcX4-116" target="49" edge="1">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BiBf15HHNjMDZF8-XcX4-116" target="49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BiBf15HHNjMDZF8-XcX4-116" value="Real Time Price Updates &amp; Dscounts" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=center;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" parent="1" vertex="1">

@@ -23,6 +23,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="2" target="HMDARcw2_HYiJdbcsD-V-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="290" />
+              <mxPoint x="2140" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2" value="MKR Solutions (Pvt) Ltd" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="945" y="150" width="190" height="90" as="geometry" />
         </mxCell>
@@ -366,13 +374,34 @@
           <mxGeometry x="1760" y="320" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-146" value="TAX Reporting" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1760" y="440" width="200" height="50" as="geometry" />
+          <mxGeometry x="1760" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-156" value="Foreign Remittence" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="241" y="1360" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-159" value="Push TAN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="618" y="1560" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-111" target="HMDARcw2_HYiJdbcsD-V-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-111" value="IpTV" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2040" y="321.5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-112" target="HMDARcw2_HYiJdbcsD-V-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-112" value="5G eSim Connectivity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2040" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-113" target="HMDARcw2_HYiJdbcsD-V-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-113" value="Using OpenWRT or Android" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2040" y="517.75" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-114" value="Built own Hardware Box" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2040" y="602.25" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2954" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,11 +30,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="2" target="HMDARcw2_HYiJdbcsD-V-111">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="2" target="HMDARcw2_HYiJdbcsD-V-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1241" y="290" />
               <mxPoint x="2140" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEnRK2xh1bTNSe5XveaE-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="2" target="LEnRK2xh1bTNSe5XveaE-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="290" />
+              <mxPoint x="2370" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -204,19 +212,19 @@
         <mxCell id="43" value="eSim Supported Device with Private Mobile APN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="960" y="600" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="44" target="45">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="44" target="45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="44" value="Check24" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="45" target="49">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="45" target="49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45" value="Idealo.de" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="48" target="BiBf15HHNjMDZF8-XcX4-115">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="48" target="BiBf15HHNjMDZF8-XcX4-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="48" value="Comparison on Products ( Insurance, Electronics, Telecommunication, Education, Traveling &amp; Tours, Automobile, Cosmetics &amp; Etc) " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=center;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -368,7 +376,7 @@
         <mxCell id="BiBf15HHNjMDZF8-XcX4-115" value="Check Product Availability on Market" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=center;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1480" y="597.75" width="240" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BiBf15HHNjMDZF8-XcX4-116" target="49">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="BiBf15HHNjMDZF8-XcX4-116" target="49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BiBf15HHNjMDZF8-XcX4-116" value="Real Time Price Updates &amp; Discounts / Offers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;verticalAlign=top;align=center;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -389,26 +397,29 @@
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-159" value="Push TAN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="618" y="1560" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-111" target="HMDARcw2_HYiJdbcsD-V-112">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="HMDARcw2_HYiJdbcsD-V-111" target="HMDARcw2_HYiJdbcsD-V-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-111" value="IpTV" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-111" value="IpTV" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2040" y="321.5" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-112" target="HMDARcw2_HYiJdbcsD-V-113">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="HMDARcw2_HYiJdbcsD-V-112" target="HMDARcw2_HYiJdbcsD-V-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-112" value="5G eSim Connectivity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-112" value="5G eSim Connectivity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2040" y="440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HMDARcw2_HYiJdbcsD-V-113" target="HMDARcw2_HYiJdbcsD-V-114">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="HMDARcw2_HYiJdbcsD-V-113" target="HMDARcw2_HYiJdbcsD-V-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-113" value="Using OpenWRT or Android" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-113" value="Using OpenWRT or Android" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2040" y="517.75" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HMDARcw2_HYiJdbcsD-V-114" value="Built own Hardware Box" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="HMDARcw2_HYiJdbcsD-V-114" value="Built own Hardware Box" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2040" y="602.25" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LEnRK2xh1bTNSe5XveaE-105" value="Escrow Services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2270" y="321.5" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

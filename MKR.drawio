@@ -385,8 +385,8 @@
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="46ZgH81Ad_jFvTiQ-aaI-145" target="46ZgH81Ad_jFvTiQ-aaI-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="46ZgH81Ad_jFvTiQ-aaI-145" value="Accounting, Invoicing, Stock, Inventory, &#xa;TAX (Optional)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="320" width="200" height="80" as="geometry" />
+        <mxCell id="46ZgH81Ad_jFvTiQ-aaI-145" value="Accounting &amp; Finance, Purchasing, Sales &amp; &#xa;Invoicing, Stock Management, Inventory, TAX (Optional)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="320" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="46ZgH81Ad_jFvTiQ-aaI-146" value="TAX Reporting" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1760" y="440" width="200" height="40" as="geometry" />

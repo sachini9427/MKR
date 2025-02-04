@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2261" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,13 +94,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-31" value="&lt;div&gt;Register Your Business in Savemate.lk&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Business Name&lt;br&gt;&lt;/li&gt;&lt;li&gt;Business Address&lt;br&gt;&lt;/li&gt;&lt;li&gt;Business Registration Number&lt;br&gt;&lt;/li&gt;&lt;li&gt;Businuess Email / Telephone &lt;br&gt;&lt;/li&gt;&lt;li&gt;Website&lt;/li&gt;&lt;li&gt;Social Media Page Links&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-22.5" y="720" width="225" height="160" as="geometry" />
+          <mxGeometry x="10" y="710" width="225" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfl9MBtD9tE9nQpcT406-32" target="qfl9MBtD9tE9nQpcT406-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-32" value="&lt;div&gt;Please Select your&amp;nbsp;Business Industry&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Telecommunication&lt;br&gt;2. Education&lt;br&gt;3. Travel and Tourism&lt;br&gt;4. Hotels &amp;amp; Apartments&lt;br&gt;5. Wellness &amp;amp; Fitness&lt;br&gt;6. Household Electronics&lt;br&gt;7. Mobile &amp;amp; Computer Accessories&lt;br&gt;8. Furniture&lt;br&gt;9. Cosmetics&lt;br&gt;10. Insurance &amp;amp; Banking&lt;br&gt;11. Clothing&lt;br&gt;12. Media &amp;amp; Entertainment&lt;br&gt;13. Automotive&lt;br&gt;14. Babies &amp;amp; Toddlers&#39; Products&lt;br&gt;15. Animal Supplies&lt;br&gt;16. Business Services&lt;br&gt;17. Gold Traders&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-37.5" y="960" width="240" height="320" as="geometry" />
+          <mxGeometry x="10" y="950" width="240" height="320" as="geometry" />
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.535;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfl9MBtD9tE9nQpcT406-31" target="qfl9MBtD9tE9nQpcT406-32">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-34" value="Small Summary About Business Nature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="1320" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="50" y="1320" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.582;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfl9MBtD9tE9nQpcT406-32" target="qfl9MBtD9tE9nQpcT406-34">
           <mxGeometry relative="1" as="geometry" />

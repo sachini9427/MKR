@@ -132,9 +132,6 @@
         <mxCell id="qfl9MBtD9tE9nQpcT406-38" value="Sending An email to Business Registrar " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1480" width="142.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qfl9MBtD9tE9nQpcT406-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfl9MBtD9tE9nQpcT406-41" target="qfl9MBtD9tE9nQpcT406-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qfl9MBtD9tE9nQpcT406-41" value="Uploading Business Registration by Merchant" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1560" width="142.5" height="40" as="geometry" />
         </mxCell>

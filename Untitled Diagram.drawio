@@ -58,8 +58,14 @@
         <mxCell id="qfl9MBtD9tE9nQpcT406-15" value="Upload Business Registration " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qfl9MBtD9tE9nQpcT406-18" value="&lt;div&gt;Billing Contact&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Full Name&lt;/li&gt;&lt;li&gt;Birthday&lt;/li&gt;&lt;li&gt;Address&lt;br&gt;&lt;/li&gt;&lt;li&gt;Email Address&lt;/li&gt;&lt;li&gt;Contact Number&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1160" width="200" height="140" as="geometry" />
+        <mxCell id="qfl9MBtD9tE9nQpcT406-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfl9MBtD9tE9nQpcT406-18" target="qfl9MBtD9tE9nQpcT406-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfl9MBtD9tE9nQpcT406-18" value="&lt;div&gt;Billing Contact&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Full Name&lt;/li&gt;&lt;li&gt;Birthday&lt;/li&gt;&lt;li&gt;Address&lt;br&gt;&lt;/li&gt;&lt;li&gt;Email Address&lt;/li&gt;&lt;li&gt;Contact Number&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1160" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qfl9MBtD9tE9nQpcT406-21" value="&lt;div&gt;Questionnaire&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Are you providing Island wide Delivery&lt;/li&gt;&lt;li&gt;Any Payment Plans &lt;br&gt;&lt;/li&gt;&lt;li&gt;Would you like to connect&amp;nbsp; your stock management software or ERP with Savemate.lk for real time product synchronization for Savemate.lk &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="475" y="1340" width="210" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

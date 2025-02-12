@@ -454,7 +454,7 @@
         <mxCell id="4Vp10fmGyDdXfndkFbGP-105" value="Insurance ( Assurant )" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2760" y="321.5" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-ZhFlDTdAu7WCTXH46YC-105" value="VOIP Solutions" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="-ZhFlDTdAu7WCTXH46YC-105" value="VOIP Solutions (Whats app)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="3000" y="318.5" width="200" height="80" as="geometry" />
         </mxCell>
       </root>

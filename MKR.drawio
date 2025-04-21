@@ -472,7 +472,7 @@
           <mxGeometry x="3000" y="318.5" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-ZhFlDTdAu7WCTXH46YC-107" value="Pay Back (Loyalty Porogram)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="3240" y="318.5" width="200" height="80" as="geometry" />
+          <mxGeometry x="3240" y="318.5" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
